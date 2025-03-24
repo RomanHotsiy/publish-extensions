@@ -1221,6 +1221,9 @@
       "cd packages/vscode-ruby-client && vsce package --no-dependencies -o extension.vsix"
     ]
   },
+  "Redocly.openapi-vs-code": {
+    "repository": "https://github.com/Redocly/redocly-vs-code"
+  },
   "reduckted.vscode-gitweblinks": {
     "repository": "https://github.com/reduckted/GitWebLinks",
     "location": "vscode"
